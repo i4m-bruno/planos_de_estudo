@@ -1,4 +1,6 @@
 # Plano de Estudos em Desenvolvimento de Software
+## Obsidian Link:
+    - obsidian://open?vault=Obsidian%20Vault&file=Estudos%2FRoadmap%20.NET.canvas
 
 ## SOLID Principles
 ---
